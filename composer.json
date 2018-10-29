@@ -1,0 +1,13 @@
+{
+    "name": "root/locaweb",
+    "authors": [
+        {
+            "name": "Matheus",
+            "email": "matheuseloy@msn.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
