@@ -105,6 +105,6 @@ class tweetController {
         return $return;
     }
 
-} // End Class
+} 
 
 ?>
